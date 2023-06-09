@@ -1,0 +1,14 @@
+C:\Users\Berke\Desktop\Udemy Projelerim\Not_Kayit_Sistemi_25Proje_1\Not_Kayit_Sistemi_25Proje_1\bin\Debug\Not_Kayit_Sistemi_25Proje_1.exe.config
+C:\Users\Berke\Desktop\Udemy Projelerim\Not_Kayit_Sistemi_25Proje_1\Not_Kayit_Sistemi_25Proje_1\bin\Debug\Not_Kayit_Sistemi_25Proje_1.exe
+C:\Users\Berke\Desktop\Udemy Projelerim\Not_Kayit_Sistemi_25Proje_1\Not_Kayit_Sistemi_25Proje_1\bin\Debug\Not_Kayit_Sistemi_25Proje_1.pdb
+C:\Users\Berke\Desktop\Udemy Projelerim\Not_Kayit_Sistemi_25Proje_1\Not_Kayit_Sistemi_25Proje_1\obj\Debug\Not_Kayit_Sistemi_25Proje_1.csprojResolveAssemblyReference.cache
+C:\Users\Berke\Desktop\Udemy Projelerim\Not_Kayit_Sistemi_25Proje_1\Not_Kayit_Sistemi_25Proje_1\obj\Debug\Not_Kayit_Sistemi_25Proje_1.Form1.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Not_Kayit_Sistemi_25Proje_1\Not_Kayit_Sistemi_25Proje_1\obj\Debug\Not_Kayit_Sistemi_25Proje_1.FrmOgrenciDetay.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Not_Kayit_Sistemi_25Proje_1\Not_Kayit_Sistemi_25Proje_1\obj\Debug\Not_Kayit_Sistemi_25Proje_1.FrmOgretmendetay.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Not_Kayit_Sistemi_25Proje_1\Not_Kayit_Sistemi_25Proje_1\obj\Debug\Not_Kayit_Sistemi_25Proje_1.Properties.Resources.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Not_Kayit_Sistemi_25Proje_1\Not_Kayit_Sistemi_25Proje_1\obj\Debug\Not_Kayit_Sistemi_25Proje_1.csproj.GenerateResource.Cache
+C:\Users\Berke\Desktop\Udemy Projelerim\Not_Kayit_Sistemi_25Proje_1\Not_Kayit_Sistemi_25Proje_1\obj\Debug\Not_Kayit_Sistemi_25Proje_1.exe
+C:\Users\Berke\Desktop\Udemy Projelerim\Not_Kayit_Sistemi_25Proje_1\Not_Kayit_Sistemi_25Proje_1\obj\Debug\Not_Kayit_Sistemi_25Proje_1.pdb
+C:\Users\Berke\Desktop\YAZILIM VE OFİS PROGRAMLARI\25 proje(C#)\Not_Kayit_Sistemi_25Proje_1\Not_Kayit_Sistemi_25Proje_1\bin\Debug\Not_Kayit_Sistemi_25Proje_1.exe.config
+C:\Users\Berke\Desktop\YAZILIM VE OFİS PROGRAMLARI\25 proje(C#)\Not_Kayit_Sistemi_25Proje_1\Not_Kayit_Sistemi_25Proje_1\obj\Debug\Not_Kayit_Sistemi_25Proje_1.exe
+C:\Users\Berke\Desktop\YAZILIM VE OFİS PROGRAMLARI\25 proje(C#)\Not_Kayit_Sistemi_25Proje_1\Not_Kayit_Sistemi_25Proje_1\obj\Debug\Not_Kayit_Sistemi_25Proje_1.pdb
